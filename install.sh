@@ -33,6 +33,3 @@ adb install ./apps/QKSMS.apk
 
 # Simple Gallery - OpenSource Gallery App
 adb install ./apps/Gallery.apk
-
-echo "All Apps are upgradeable in F-Droid"
-echo "Have fun with your FOSS Apps :)"
