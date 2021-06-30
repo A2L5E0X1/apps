@@ -7,14 +7,14 @@
 # Aurora Store - OpenSource Google Play Alternative
 adb install ./apps/Aurora.apk
 
+# Bromite - Chromium based Webbrowser with adblocker and privacy tweaks
+adb install ./apps/Bromite.apk
+
 # FDroid - Free and OpenSource Apps
 adb install ./apps/FDroid.apk
 
 # K9Mail - OpenSource E-Mail App
 adb install ./apps/K9Mail.apk
-
-# Lightning - Light OpenSource Webbrowser
-adb install ./apps/Lightning.apk
 
 # Material Files - OpenSource File Manager
 adb install ./apps/Files.apk
